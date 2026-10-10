@@ -2,7 +2,7 @@
 
 Nama: Muhammad Irfan Abdul Aziz Ramdani
 NIM: 1224014
-Kelas: Sistem Informasi — STMIK Bandung
+Kelas: Teknik Informatika — STMIK Bandung
 Mata Kuliah: Pengujian Perangkat Lunak — Pertemuan 4 (Unit Testing dengan GitHub Actions)
 
 Repository untuk Latihan Terstruktur Pertemuan 4:
